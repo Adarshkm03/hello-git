@@ -1,2 +1,2 @@
-# Hello Git
-This is my first GitHub repository!
+## About
+This is an about page
