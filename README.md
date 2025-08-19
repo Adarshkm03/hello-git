@@ -1,1 +1,1 @@
-# Hello Git - Edited in main
+# Hello Git - Combined version from both branches
