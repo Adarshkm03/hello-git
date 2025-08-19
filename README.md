@@ -1,2 +1,1 @@
-## About
-This is an about page
+# Hello Git - Edited in feature/about-page
