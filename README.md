@@ -1,1 +1,1 @@
-# Hello Git - Edited in feature/about-page
+# Hello Git - Combined version from both branches
